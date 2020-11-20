@@ -60,7 +60,7 @@ function init(appkit) {
 module.exports = {
     init: init,
     update: update,
-    group: 'imgae',
+    group: 'image',
     help: 'various tools for manipulating images',
     primary: true
 };
